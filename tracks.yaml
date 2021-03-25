@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/sstn3-ca/ros_foxy_test_py-release-3.git
 tracks:
   foxy:
     actions:
